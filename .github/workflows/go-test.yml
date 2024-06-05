@@ -1,3 +1,8 @@
+# TODO Continue creating and using reusable workflows
+# once they support service containers in calling workflows.
+# See
+# - https://github.com/actions/runner/issues/822
+# - https://github.com/orgs/community/discussions/58243
 name: Go Test
 on:
   workflow_call:
